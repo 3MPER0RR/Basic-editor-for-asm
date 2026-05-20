@@ -1,9 +1,11 @@
 ## install
 
 pythn3 -m venv editvm
+
 pip install keystone-engine capstone
 
-## Usage 
+## Usage
+
 python3 asm_forge.py
 
 ## Keybindings
